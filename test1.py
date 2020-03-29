@@ -1,3 +1,0 @@
- print ("SomeThing")
-print ("again")
-
